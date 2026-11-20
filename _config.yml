@@ -21,10 +21,8 @@ author: Bodhisatya Chatterjee
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  LinkedIn: "https://www.linkedin.com/in/bodhisatya-chatterjee-a8a4328b/"
+  GitHub: "https://github.com/BodhiChatterjee94"
 
 ################
 # --- Logo --- #
